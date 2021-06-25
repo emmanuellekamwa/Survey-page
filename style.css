@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+
+.description{
+    text-align: center;
+    font-style: italic;
+}
+
+.survey-form{
+    position: relative;
+    left: 500px;
+    border: 1px solid;
+    padding: 50px;
+    width: 500px;
+    margin-right: 50px;
+}
+
+.form-group{
+    margin-left: 10px;
+    border-radius: 5px;
+}
