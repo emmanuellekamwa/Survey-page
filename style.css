@@ -2,23 +2,23 @@ body {
     background-color: azure;
 }
 
-h1{
+h1 {
     text-align: center;
 }
 
-.description{
+.description {
     text-align: center;
     font-style: italic;
 }
 
-.survey-form{
+.survey-form {
   text-align: left;
   background-color: rgba(0, 0, 0, 0.6);
   border-radius: 10px;
   padding: 0px;
 }
 
-.form-group{
+.form-group {
   display: block;
   padding: 5px 15px;
   font-size: 18px;
